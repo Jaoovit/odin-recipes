@@ -1,3 +1,14 @@
 * {
-    background-color:blanchedalmond
+    background-color:blanchedalmond;
+}
+
+h1 {
+    text-align:center;
+    color: brown;
+    background-color:antiquewhite;
+    border-radius: 50px;
+    border: 2px solid;
+    height: 40px;
+    width: auto
+    
 }
